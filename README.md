@@ -15,7 +15,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ sandaru-nirmal-72218a2a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ sandaru-nirmal-72218a2a7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sandaru-nirmal-72218a2a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ sandaru-nirmal-72218a2a7" height="30" width="40" /></a>
 <a href="https://instagram.com/sandaru_nirmal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandaru_nirmal1" height="30" width="40" /></a>
 </p>
 
